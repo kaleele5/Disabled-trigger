@@ -12,10 +12,10 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/net20/ExcelNumberFormat.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib/net45/NPOI.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib/net45/NPOI.OOXML.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib/net45/NPOI.OpenXml4Net.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib/net45/NPOI.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/net40/BouncyCastle.Crypto.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
@@ -29,8 +29,8 @@
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/Microsoft.Vbe.Interop.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/Office.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib/net461/UiPath.Excel.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.platform\\23.4.1\\lib/net461/UiPath.Platform.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll"
@@ -43,10 +43,10 @@
         "Version": "1.18.2"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.PlatformServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/net45/Google.Apis.Calendar.v3.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/net45/Google.Apis.Core.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -133,7 +133,7 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\lib/net461/System.ComponentModel.Annotations.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\lib/net45/System.Management.Automation.dll",
@@ -174,8 +174,8 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.Activities.Design.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.RulesLibrary.dll"
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.RulesLibrary.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib/net461/UiPath.Testing.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0"
     },
@@ -190,7 +190,7 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/net452/Microsoft.Rest.ClientRuntime.Azure.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\nlog\\4.5.11\\lib/net45/NLog.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.2.2\\lib/net461/Polly.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
@@ -217,27 +217,470 @@
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.CV.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.CV.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.Semantic.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationCore.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.GoogleCloud.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Tesseract.dll"
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.16.2"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\avalonedit\\6.0.1\\lib/net45/ICSharpCode.AvalonEdit.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\restsharp\\106.15.0\\lib/net452/RestSharp.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib/net461/System.ValueTuple.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.platform\\23.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib/net461/UiPath.Web.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib/net461/UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib/net461/UiPath.Web.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib/net461/UiPath.Web.dll"
+      ],
+      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2"
+    },
+    {
+      "Package": {
+        "Id": "Element5.Core",
+        "Version": "1.2.69-alpha.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\alphabet.workflow.activities\\3.1.0\\lib/GetXamlFileNameActivity.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\alphabet.workflow.activities\\3.1.0\\lib/GetXamlFileNameActivity.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\3.0.0\\lib/netstandard2.0/Amazon.Extensions.Configuration.SystemsManager.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\avalonedit\\6.0.1\\lib/net45/ICSharpCode.AvalonEdit.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.appconfig\\3.7.0.52\\lib/net45/AWSSDK.AppConfig.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.core\\3.7.13\\lib/net45/AWSSDK.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.ec2\\3.7.28.3\\lib/net45/AWSSDK.EC2.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.eventbridge\\3.7.5.57\\lib/net45/AWSSDK.EventBridge.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\lib/netstandard2.0/AWSSDK.Extensions.NETCore.Setup.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.identitymanagement\\3.7.2.48\\lib/net45/AWSSDK.IdentityManagement.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.s3\\3.7.3.1\\lib/net45/AWSSDK.S3.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.5.14\\lib/net45/AWSSDK.SimpleSystemsManagement.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib/BalaReva.Zip.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib/BalaReva.Zip.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib/SharpCompress.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\bouncycastle\\1.8.1\\lib/BouncyCastle.Crypto.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\box.v2\\3.15.0\\lib/net45/Box.V2.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\confluent.kafka\\1.8.2\\lib/net46/Confluent.Kafka.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\csvhelper\\16.0.0\\lib/net45/CsvHelper.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.84\\lib/net40/DotNetProjects.Input.Toolkit.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetzip\\1.13.3\\lib/net40/DotNetZip.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\easyencryption\\1.0.2\\lib/EasyEncryption.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_10496966.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_12961521.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_12997942.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_1303520.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_13773430.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_14569153.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_15381982.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_15811552.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_1586072.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_16319308.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_17373185.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_18189754.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_196441.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_22128169.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_24017449.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_24398017.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_25119771.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_25832866.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_2624527.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_26799212.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_27320416.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_28389284.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_28828433.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_29668775.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_30993662.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_31454792.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_31715768.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_32616741.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_32730437.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_33800667.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_34712598.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_34944675.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_35675948.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_36671861.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_37193272.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_37374465.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_37940037.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_39492441.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_40313430.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_41018145.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_4125335.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_42385465.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_42873007.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_42914710.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_43173597.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_43672664.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_43941126.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_44143053.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_45488468.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_4566917.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_46467888.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_47152297.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_50095151.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_50139668.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_5034568.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_50550392.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_50774821.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_51193899.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_51859254.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_54574356.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_54720259.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_54723515.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_56216559.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_5700591.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_5856352.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_5861542.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_58887237.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_59004183.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_59205478.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_59587605.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_60627884.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_61645433.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_63102383.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_63877772.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_64728757.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_66119698.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_8025479.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_9662674.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib/net45/Element5.Core_Expressions_99029.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.desktopvideorecorder.activities\\1.0.0\\lib/DesktopVideoRecorder.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\emailvalidation\\1.0.3\\lib/net45/EmailValidation.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\gettersetter.activities\\1.0.4\\lib/GetterSetterActivity.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib/net45/Google.Apis.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.PlatformServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/net461/Google.Apis.Auth.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/net45/Google.Apis.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/net45/Google.Apis.PeopleService.v1.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/Net45/HtmlAgilityPack.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\ionic.zip\\1.9.1.8\\lib/Ionic.Zip.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\mailkit\\3.1.1\\lib/net46/MailKit.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/net461/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\microsoft.codeanalysis.common\\4.0.1\\lib/netstandard2.0/Microsoft.CodeAnalysis.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\microsoft.codeanalysis.csharp\\4.0.1\\lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\microsoft.codeanalysis.visualbasic\\4.0.1\\lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/net461/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/net461/Microsoft.Identity.Client.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.identity.client.desktop\\4.35.1\\lib/net461/Microsoft.Identity.Client.Desktop.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/net461/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/net461/Microsoft.IdentityModel.Logging.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/net461/Microsoft.IdentityModel.Tokens.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/net452/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib/net45/Microsoft.Web.WebView2.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib/net45/Microsoft.Web.WebView2.WinForms.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\microsoft.web.webview2\\1.0.864.35\\lib/net45/Microsoft.Web.WebView2.Wpf.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\mimekit\\3.1.1\\lib/net46/MimeKit.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/net45/Newtonsoft.Json.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Context.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Interop.WaitHandles.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.asyncex.oop\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Oop.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.cancellation\\1.1.0\\lib/netstandard2.0/Nito.Cancellation.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.collections.deque\\1.1.0\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nito.disposables\\2.2.0\\lib/net461/Nito.Disposables.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\nlog\\4.5.11\\lib/net45/NLog.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\otp.net\\1.2.2\\lib/net45/Otp.NET.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.2.2\\lib/net461/Polly.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib/net461/Polly.Contrib.WaitAndRetry.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/net40/BouncyCastle.Crypto.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\restsharp\\106.15.0\\lib/net452/RestSharp.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\stubble.core\\1.9.3\\lib/net45/Stubble.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.buffers\\4.5.1\\lib/net461/System.Buffers.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.collections.immutable\\5.0.0\\lib/net461/System.Collections.Immutable.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/net461/System.IdentityModel.Tokens.Jwt.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.compression\\4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\lib/net45/System.Management.Automation.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.memory\\4.5.4\\lib/net461/System.Memory.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib/net461/System.Reflection.Metadata.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\runtimes/win/lib/net461/System.Text.Encoding.CodePages.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.text.json\\4.7.2\\lib/net461/System.Text.Json.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib/net461/System.Threading.Channels.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath\\23.4.57.3408\\lib/net45/UiPath.Interop.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net461/UiPath.Activities.RuntimeGovernance.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib/net461/UiPath.AmazonWebServices.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib/net461/UiPath.AmazonWebServices.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib/net461/UiPath.AmazonWebServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib/net461/UiPath.Box.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib/net461/UiPath.Box.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib/net461/UiPath.Box.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\lib/net461/ConnectionClient.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.imageprocessing\\23.4.0\\lib/net461/UiPath.ImageProcessingInterop.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/Interop.Domino.UiPath.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/Microsoft.Office.Interop.Outlook.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/Microsoft.Office.Interop.Word.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/Office.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/UiPath.Mail.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.mail.activities\\1.18.2\\lib/net461/UiPath.MainSessionServer.Shared.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.ocr.activities\\3.15.1\\lib/net461/UiPath.OCR.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.ocr.activities\\3.15.1\\lib/net461/UiPath.OCR.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.ocr.activities\\3.15.1\\lib/net461/UiPath.OCR.Core.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.ocr.contracts\\2.14.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.platform\\23.4.1\\lib/net461/UiPath.Platform.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.activities\\23.4.2\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.runtime.legacy\\23.4.2\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.system.runtime.legacy\\23.4.2\\lib/net461/UiPath.System.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/net461/TelemetryClient.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.Semantic.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities\\23.4.4\\lib/net461/UiPath.Wizards.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.CV.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.Semantic.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationCore.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib/net461/UiPath.Vision.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib/net461/UiPath.Web.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib/net461/UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib/net461/UiPath.Web.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib/net461/UiPath.Web.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib/net461/ConnectivityFramework.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib/net461/UiPathTeam.DotNetZip.Activities.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib/net461/UiPathTeam.DotNetZip.Activities.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib/net461/UiPathTeam.DotNetZip.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib/Microsoft.WindowsAPICodePack.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib/Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib/Microsoft.WindowsAPICodePack.Sensors.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib/Microsoft.WindowsAPICodePack.Shell.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib/Microsoft.WindowsAPICodePack.ShellExtensions.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\yamldotnet\\8.1.0\\lib/net45/YamlDotNet.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "Alphabet.Workflow.Activities": {
+      "Id": "Alphabet.Workflow.Activities",
+      "Version": "3.1.0",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.System.Activities",
+          "Item2": "[18.4.2, )"
+        }
+      ]
+    },
+    "Amazon.Extensions.Configuration.SystemsManager": {
+      "Id": "Amazon.Extensions.Configuration.SystemsManager",
+      "Version": "3.0.0",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.AppConfig",
+          "Item2": "[3.7.0.52, )"
+        },
+        {
+          "Item1": "AWSSDK.Extensions.NETCore.Setup",
+          "Item2": "[3.7.1, )"
+        },
+        {
+          "Item1": "AWSSDK.SimpleSystemsManagement",
+          "Item2": "[3.7.4.11, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration",
+          "Item2": "[2.0.2, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[12.0.3, )"
+        }
+      ]
+    },
     "AutoMapper": {
       "Id": "AutoMapper",
       "Version": "9.0.0",
       "Dependencies": []
+    },
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "6.0.1",
+      "Dependencies": []
+    },
+    "AWSSDK.AppConfig": {
+      "Id": "AWSSDK.AppConfig",
+      "Version": "3.7.0.52",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.2.4, 4.0.0)"
+        }
+      ]
+    },
+    "AWSSDK.Core": {
+      "Id": "AWSSDK.Core",
+      "Version": "3.7.13",
+      "Dependencies": []
+    },
+    "AWSSDK.EC2": {
+      "Id": "AWSSDK.EC2",
+      "Version": "3.7.28.3",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.3.8, 4.0.0)"
+        }
+      ]
+    },
+    "AWSSDK.EventBridge": {
+      "Id": "AWSSDK.EventBridge",
+      "Version": "3.7.5.57",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.13, 4.0.0)"
+        }
+      ]
+    },
+    "AWSSDK.Extensions.NETCore.Setup": {
+      "Id": "AWSSDK.Extensions.NETCore.Setup",
+      "Version": "3.7.2",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.6, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
+          "Item2": "[2.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[2.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Abstractions",
+          "Item2": "[2.0.0, )"
+        }
+      ]
+    },
+    "AWSSDK.IdentityManagement": {
+      "Id": "AWSSDK.IdentityManagement",
+      "Version": "3.7.2.48",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.3.8, 4.0.0)"
+        }
+      ]
+    },
+    "AWSSDK.S3": {
+      "Id": "AWSSDK.S3",
+      "Version": "3.7.3.1",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.3.8, 4.0.0)"
+        }
+      ]
+    },
+    "AWSSDK.SimpleSystemsManagement": {
+      "Id": "AWSSDK.SimpleSystemsManagement",
+      "Version": "3.7.5.14",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.3.8, 4.0.0)"
+        }
+      ]
+    },
+    "BalaReva.ZipUnzip.Activities": {
+      "Id": "BalaReva.ZipUnzip.Activities",
+      "Version": "2019.4.1",
+      "Dependencies": [
+        {
+          "Item1": "Ionic.Zip",
+          "Item2": "[1.9.1.8, )"
+        },
+        {
+          "Item1": "sharpcompress",
+          "Item2": "[0.24.0, )"
+        }
+      ]
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.1",
+      "Dependencies": []
+    },
+    "Box.V2": {
+      "Id": "Box.V2",
+      "Version": "3.15.0",
+      "Dependencies": [
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.IdentityModel.Tokens.Jwt",
+          "Item2": "[5.1.4, )"
+        }
+      ]
     },
     "ClosedXML": {
       "Id": "ClosedXML",
@@ -254,6 +697,20 @@
         {
           "Item1": "Microsoft.CSharp",
           "Item2": "[4.7.0, )"
+        }
+      ]
+    },
+    "Confluent.Kafka": {
+      "Id": "Confluent.Kafka",
+      "Version": "1.8.2",
+      "Dependencies": [
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "librdkafka.redist",
+          "Item2": "[1.8.2, )"
         }
       ]
     },
@@ -281,10 +738,131 @@
         }
       ]
     },
+    "DotNetProjects.WpfToolkit.Input": {
+      "Id": "DotNetProjects.WpfToolkit.Input",
+      "Version": "6.0.84",
+      "Dependencies": []
+    },
+    "DotNetZip": {
+      "Id": "DotNetZip",
+      "Version": "1.13.3",
+      "Dependencies": []
+    },
+    "EasyEncryption": {
+      "Id": "EasyEncryption",
+      "Version": "1.0.2",
+      "Dependencies": []
+    },
+    "Element5.Core": {
+      "Id": "Element5.Core",
+      "Version": "1.2.69-alpha.3",
+      "Dependencies": [
+        {
+          "Item1": "Alphabet.Workflow.Activities",
+          "Item2": "[3.1.0, 3.1.0]"
+        },
+        {
+          "Item1": "AWSSDK.EventBridge",
+          "Item2": "[3.7.5.57, )"
+        },
+        {
+          "Item1": "AWSSDK.Extensions.NETCore.Setup",
+          "Item2": "[3.7.2, )"
+        },
+        {
+          "Item1": "BalaReva.ZipUnzip.Activities",
+          "Item2": "[2019.4.1, )"
+        },
+        {
+          "Item1": "Confluent.Kafka",
+          "Item2": "[1.8.2, )"
+        },
+        {
+          "Item1": "EasyEncryption",
+          "Item2": "[1.0.2, )"
+        },
+        {
+          "Item1": "Element5.DesktopVideoRecorder.Activities",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "EmailValidation",
+          "Item2": "[1.0.3, 1.0.3]"
+        },
+        {
+          "Item1": "GetterSetter.Activities",
+          "Item2": "[1.0.4, )"
+        },
+        {
+          "Item1": "Otp.NET",
+          "Item2": "[1.2.2, )"
+        },
+        {
+          "Item1": "Stubble.Core",
+          "Item2": "[1.9.3, )"
+        },
+        {
+          "Item1": "System.IO.Compression",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "UiPath.AmazonWebServices.Activities",
+          "Item2": "[2.0.1, )"
+        },
+        {
+          "Item1": "UiPath.Box.Activities",
+          "Item2": "[1.1.6, )"
+        },
+        {
+          "Item1": "UiPath.Mail.Activities",
+          "Item2": "[1.7.2, 1.7.2]"
+        },
+        {
+          "Item1": "UiPath.System.Activities",
+          "Item2": "[20.10.4, 20.10.4]"
+        },
+        {
+          "Item1": "UiPath.UIAutomation.Activities",
+          "Item2": "[21.10.5, )"
+        },
+        {
+          "Item1": "UiPath.WebAPI.Activities",
+          "Item2": "[1.4.4, 1.4.4]"
+        },
+        {
+          "Item1": "UiPathTeam.DotNetZip.Activities",
+          "Item2": "[1.0.7222.31886, )"
+        },
+        {
+          "Item1": "YamlDotNet",
+          "Item2": "[8.1.0, 8.1.0]"
+        }
+      ]
+    },
+    "Element5.DesktopVideoRecorder.Activities": {
+      "Id": "Element5.DesktopVideoRecorder.Activities",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "EmailValidation": {
+      "Id": "EmailValidation",
+      "Version": "1.0.3",
+      "Dependencies": []
+    },
     "ExcelNumberFormat": {
       "Id": "ExcelNumberFormat",
       "Version": "1.0.10",
       "Dependencies": []
+    },
+    "GetterSetter.Activities": {
+      "Id": "GetterSetter.Activities",
+      "Version": "1.0.4",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[7.0.1, )"
+        }
+      ]
     },
     "Google.Apis": {
       "Id": "Google.Apis",
@@ -365,6 +943,16 @@
     "HtmlAgilityPack": {
       "Id": "HtmlAgilityPack",
       "Version": "1.11.38",
+      "Dependencies": []
+    },
+    "Ionic.Zip": {
+      "Id": "Ionic.Zip",
+      "Version": "1.9.1.8",
+      "Dependencies": []
+    },
+    "librdkafka.redist": {
+      "Id": "librdkafka.redist",
+      "Version": "1.8.2",
       "Dependencies": []
     },
     "MailKit": {
@@ -981,9 +1569,24 @@
         }
       ]
     },
+    "Otp.NET": {
+      "Id": "Otp.NET",
+      "Version": "1.2.2",
+      "Dependencies": []
+    },
     "Polly": {
       "Id": "Polly",
-      "Version": "7.1.0",
+      "Version": "7.2.2",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "Polly.Contrib.WaitAndRetry": {
+      "Id": "Polly.Contrib.WaitAndRetry",
+      "Version": "1.1.1",
       "Dependencies": []
     },
     "Portable.BouncyCastle": {
@@ -991,10 +1594,34 @@
       "Version": "1.9.0",
       "Dependencies": []
     },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.15.0",
+      "Dependencies": []
+    },
+    "SharpCompress": {
+      "Id": "SharpCompress",
+      "Version": "0.24.0",
+      "Dependencies": []
+    },
     "SharpZipLib": {
       "Id": "SharpZipLib",
       "Version": "1.3.3",
       "Dependencies": []
+    },
+    "Stubble.Core": {
+      "Id": "Stubble.Core",
+      "Version": "1.9.3",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.1, )"
+        }
+      ]
     },
     "System.Buffers": {
       "Id": "System.Buffers",
@@ -1013,7 +1640,12 @@
     },
     "System.ComponentModel.Annotations": {
       "Id": "System.ComponentModel.Annotations",
-      "Version": "4.7.0",
+      "Version": "5.0.0",
+      "Dependencies": []
+    },
+    "System.Data.DataSetExtensions": {
+      "Id": "System.Data.DataSetExtensions",
+      "Version": "4.5.0",
       "Dependencies": []
     },
     "System.IdentityModel.Tokens.Jwt": {
@@ -1033,6 +1665,11 @@
     "System.IO.Abstractions": {
       "Id": "System.IO.Abstractions",
       "Version": "3.0.10",
+      "Dependencies": []
+    },
+    "System.IO.Compression": {
+      "Id": "System.IO.Compression",
+      "Version": "4.3.0",
       "Dependencies": []
     },
     "System.IO.FileSystem.Primitives": {
@@ -1231,6 +1868,78 @@
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.AmazonWebServices.Activities": {
+      "Id": "UiPath.AmazonWebServices.Activities",
+      "Version": "2.0.1",
+      "Dependencies": [
+        {
+          "Item1": "AWSSDK.Core",
+          "Item2": "[3.7.3.8, )"
+        },
+        {
+          "Item1": "AWSSDK.EC2",
+          "Item2": "[3.7.28.3, )"
+        },
+        {
+          "Item1": "AWSSDK.Extensions.NETCore.Setup",
+          "Item2": "[3.7.1, )"
+        },
+        {
+          "Item1": "AWSSDK.IdentityManagement",
+          "Item2": "[3.7.2.48, )"
+        },
+        {
+          "Item1": "AWSSDK.S3",
+          "Item2": "[3.7.3.1, )"
+        },
+        {
+          "Item1": "AWSSDK.SimpleSystemsManagement",
+          "Item2": "[3.7.5.14, )"
+        },
+        {
+          "Item1": "Amazon.Extensions.Configuration.SystemsManager",
+          "Item2": "[3.0.0, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.2.2, )"
+        },
+        {
+          "Item1": "Polly.Contrib.WaitAndRetry",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "System.ComponentModel.Annotations",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Data.DataSetExtensions",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
+        }
+      ]
+    },
+    "UiPath.Box.Activities": {
+      "Id": "UiPath.Box.Activities",
+      "Version": "1.1.6",
+      "Dependencies": [
+        {
+          "Item1": "Box.V2",
+          "Item2": "[3.15.0, )"
+        },
+        {
+          "Item1": "DotNetProjects.WpfToolkit.Input",
+          "Item2": "[6.0.84, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.3.18, )"
         }
       ]
     },
@@ -1663,9 +2372,114 @@
           "Item2": "[2.14.0, )"
         }
       ]
+    },
+    "UiPath.WebAPI.Activities": {
+      "Id": "UiPath.WebAPI.Activities",
+      "Version": "1.16.2",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.WebAPI.Runtime",
+          "Item2": "[1.16.2, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.15.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[23.4.1, )"
+        }
+      ]
+    },
+    "UiPath.WebAPI.Runtime": {
+      "Id": "UiPath.WebAPI.Runtime",
+      "Version": "1.16.2",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.15.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[23.4.1, )"
+        }
+      ]
+    },
+    "UiPathTeam.DotNetZip.Activities": {
+      "Id": "UiPathTeam.DotNetZip.Activities",
+      "Version": "1.0.7222.31886",
+      "Dependencies": [
+        {
+          "Item1": "WindowsAPICodePack",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "Nito.AsyncEx.Coordination",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "DotNetZip",
+          "Item2": "[1.13.3, )"
+        }
+      ]
+    },
+    "WindowsAPICodePack": {
+      "Id": "WindowsAPICodePack",
+      "Version": "1.1.0",
+      "Dependencies": []
+    },
+    "YamlDotNet": {
+      "Id": "YamlDotNet",
+      "Version": "8.1.0",
+      "Dependencies": []
     }
   },
   "AllPackages": [
+    {
+      "Package": {
+        "Id": "Alphabet.Workflow.Activities",
+        "Version": "3.1.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\alphabet.workflow.activities\\3.1.0\\lib\\GetXamlFileNameActivity.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\alphabet.workflow.activities\\3.1.0\\lib\\GetXamlFileNameActivity.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\alphabet.workflow.activities\\3.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Amazon.Extensions.Configuration.SystemsManager",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\3.0.0\\lib\\netstandard2.0\\Amazon.Extensions.Configuration.SystemsManager.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\3.0.0"
+    },
     {
       "Package": {
         "Id": "AutoMapper",
@@ -1678,6 +2492,128 @@
     },
     {
       "Package": {
+        "Id": "AvalonEdit",
+        "Version": "6.0.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\avalonedit\\6.0.1\\lib\\net45\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\avalonedit\\6.0.1"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.AppConfig",
+        "Version": "3.7.0.52"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.appconfig\\3.7.0.52\\lib\\net45\\AWSSDK.AppConfig.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.appconfig\\3.7.0.52"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.Core",
+        "Version": "3.7.13"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.core\\3.7.13\\lib\\net45\\AWSSDK.Core.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.core\\3.7.13"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.EC2",
+        "Version": "3.7.28.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.ec2\\3.7.28.3\\lib\\net45\\AWSSDK.EC2.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.ec2\\3.7.28.3"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.EventBridge",
+        "Version": "3.7.5.57"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.eventbridge\\3.7.5.57\\lib\\net45\\AWSSDK.EventBridge.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.eventbridge\\3.7.5.57"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.Extensions.NETCore.Setup",
+        "Version": "3.7.2"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2\\lib\\netstandard2.0\\AWSSDK.Extensions.NETCore.Setup.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.2"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.IdentityManagement",
+        "Version": "3.7.2.48"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.identitymanagement\\3.7.2.48\\lib\\net45\\AWSSDK.IdentityManagement.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.identitymanagement\\3.7.2.48"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.S3",
+        "Version": "3.7.3.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.s3\\3.7.3.1\\lib\\net45\\AWSSDK.S3.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.s3\\3.7.3.1"
+    },
+    {
+      "Package": {
+        "Id": "AWSSDK.SimpleSystemsManagement",
+        "Version": "3.7.5.14"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.5.14\\lib\\net45\\AWSSDK.SimpleSystemsManagement.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.5.14"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.ZipUnzip.Activities",
+        "Version": "2019.4.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib\\BalaReva.Zip.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib\\BalaReva.Zip.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1\\lib\\SharpCompress.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\balareva.zipunzip.activities\\2019.4.1"
+    },
+    {
+      "Package": {
+        "Id": "BouncyCastle",
+        "Version": "1.8.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\bouncycastle\\1.8.1\\lib\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\bouncycastle\\1.8.1"
+    },
+    {
+      "Package": {
+        "Id": "Box.V2",
+        "Version": "3.15.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\box.v2\\3.15.0\\lib\\net45\\Box.V2.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\box.v2\\3.15.0"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.95.4"
       },
@@ -1685,6 +2621,16 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\closedxml\\0.95.4\\lib\\net46\\ClosedXML.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\closedxml\\0.95.4"
+    },
+    {
+      "Package": {
+        "Id": "Confluent.Kafka",
+        "Version": "1.8.2"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\confluent.kafka\\1.8.2\\lib\\net46\\Confluent.Kafka.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\confluent.kafka\\1.8.2"
     },
     {
       "Package": {
@@ -1708,6 +2654,146 @@
     },
     {
       "Package": {
+        "Id": "DotNetProjects.WpfToolkit.Input",
+        "Version": "6.0.84"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.84\\lib\\net40\\DotNetProjects.Input.Toolkit.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetprojects.wpftoolkit.input\\6.0.84"
+    },
+    {
+      "Package": {
+        "Id": "DotNetZip",
+        "Version": "1.13.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetzip\\1.13.3\\lib\\net40\\DotNetZip.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\dotnetzip\\1.13.3"
+    },
+    {
+      "Package": {
+        "Id": "EasyEncryption",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\easyencryption\\1.0.2\\lib\\EasyEncryption.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\easyencryption\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "Element5.Core",
+        "Version": "1.2.69-alpha.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_10496966.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_12961521.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_12997942.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_1303520.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_13773430.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_14569153.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_15381982.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_15811552.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_1586072.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_16319308.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_17373185.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_18189754.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_196441.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_22128169.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_24017449.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_24398017.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_25119771.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_25832866.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_2624527.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_26799212.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_27320416.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_28389284.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_28828433.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_29668775.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_30993662.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_31454792.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_31715768.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_32616741.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_32730437.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_33800667.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_34712598.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_34944675.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_35675948.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_36671861.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_37193272.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_37374465.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_37940037.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_39492441.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_40313430.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_41018145.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_4125335.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_42385465.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_42873007.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_42914710.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_43173597.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_43672664.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_43941126.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_44143053.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_45488468.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_4566917.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_46467888.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_47152297.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_50095151.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_50139668.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_5034568.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_50550392.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_50774821.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_51193899.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_51859254.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_54574356.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_54720259.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_54723515.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_56216559.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_5700591.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_5856352.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_5861542.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_58887237.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_59004183.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_59205478.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_59587605.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_60627884.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_61645433.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_63102383.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_63877772.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_64728757.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_66119698.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_8025479.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_9662674.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3\\lib\\net45\\Element5.Core_Expressions_99029.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.core\\1.2.69-alpha.3"
+    },
+    {
+      "Package": {
+        "Id": "Element5.DesktopVideoRecorder.Activities",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.desktopvideorecorder.activities\\1.0.0\\lib\\DesktopVideoRecorder.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.desktopvideorecorder.activities\\1.0.0\\lib\\ffmpeg.exe"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\element5.desktopvideorecorder.activities\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "EmailValidation",
+        "Version": "1.0.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\emailvalidation\\1.0.3\\lib\\net45\\EmailValidation.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\emailvalidation\\1.0.3"
+    },
+    {
+      "Package": {
         "Id": "ExcelNumberFormat",
         "Version": "1.0.10"
       },
@@ -1718,12 +2804,22 @@
     },
     {
       "Package": {
+        "Id": "GetterSetter.Activities",
+        "Version": "1.0.4"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\gettersetter.activities\\1.0.4\\lib\\GetterSetterActivity.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\gettersetter.activities\\1.0.4"
+    },
+    {
+      "Package": {
         "Id": "Google.Apis",
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis\\1.55.0"
     },
@@ -1733,8 +2829,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.PlatformServices.dll"
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.PlatformServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\net461\\Google.Apis.Auth.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -1787,6 +2883,24 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\Net45\\HtmlAgilityPack.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+    },
+    {
+      "Package": {
+        "Id": "Ionic.Zip",
+        "Version": "1.9.1.8"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\ionic.zip\\1.9.1.8\\lib\\Ionic.Zip.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\ionic.zip\\1.9.1.8"
+    },
+    {
+      "Package": {
+        "Id": "librdkafka.redist",
+        "Version": "1.8.2"
+      },
+      "Assemblies": [],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\librdkafka.redist\\1.8.2"
     },
     {
       "Package": {
@@ -2301,22 +3415,42 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OOXML.dll",
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5\\lib\\net45\\NPOI.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\npoi\\2.5.5"
     },
     {
       "Package": {
-        "Id": "Polly",
-        "Version": "7.1.0"
+        "Id": "Otp.NET",
+        "Version": "1.2.2"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\otp.net\\1.2.2\\lib\\net45\\Otp.NET.dll"
       ],
-      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.1.0"
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\otp.net\\1.2.2"
+    },
+    {
+      "Package": {
+        "Id": "Polly",
+        "Version": "7.2.2"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.2.2\\lib\\net461\\Polly.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly\\7.2.2"
+    },
+    {
+      "Package": {
+        "Id": "Polly.Contrib.WaitAndRetry",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib\\net461\\Polly.Contrib.WaitAndRetry.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1"
     },
     {
       "Package": {
@@ -2330,6 +3464,26 @@
     },
     {
       "Package": {
+        "Id": "RestSharp",
+        "Version": "106.15.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\restsharp\\106.15.0\\lib\\net452\\RestSharp.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\restsharp\\106.15.0"
+    },
+    {
+      "Package": {
+        "Id": "SharpCompress",
+        "Version": "0.24.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpcompress\\0.24.0\\lib\\net45\\SharpCompress.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpcompress\\0.24.0"
+    },
+    {
+      "Package": {
         "Id": "SharpZipLib",
         "Version": "1.3.3"
       },
@@ -2337,6 +3491,16 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\sharpziplib\\1.3.3"
+    },
+    {
+      "Package": {
+        "Id": "Stubble.Core",
+        "Version": "1.9.3"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\stubble.core\\1.9.3\\lib\\net45\\Stubble.Core.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\stubble.core\\1.9.3"
     },
     {
       "Package": {
@@ -2361,12 +3525,22 @@
     {
       "Package": {
         "Id": "System.ComponentModel.Annotations",
-        "Version": "4.7.0"
+        "Version": "5.0.0"
       },
       "Assemblies": [
-        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\lib\\net461\\System.ComponentModel.Annotations.dll"
       ],
-      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0"
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Data.DataSetExtensions",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\lib\\net45\\_._"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.data.datasetextensions\\4.5.0"
     },
     {
       "Package": {
@@ -2387,6 +3561,16 @@
         "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
       ],
       "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+    },
+    {
+      "Package": {
+        "Id": "System.IO.Compression",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.compression\\4.3.0\\lib\\net46\\System.IO.Compression.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -2590,6 +3774,30 @@
     },
     {
       "Package": {
+        "Id": "UiPath.AmazonWebServices.Activities",
+        "Version": "2.0.1"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib\\net461\\UiPath.AmazonWebServices.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib\\net461\\UiPath.AmazonWebServices.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1\\lib\\net461\\UiPath.AmazonWebServices.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.amazonwebservices.activities\\2.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Box.Activities",
+        "Version": "1.1.6"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib\\net461\\UiPath.Box.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib\\net461\\UiPath.Box.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6\\lib\\net461\\UiPath.Box.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipath.box.activities\\1.1.6"
+    },
+    {
+      "Package": {
         "Id": "UiPath.ConnectionClient",
         "Version": "1.4.1"
       },
@@ -2608,8 +3816,8 @@
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\Microsoft.Vbe.Interop.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\Office.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.excel.activities\\2.20.1"
@@ -2712,8 +3920,8 @@
       "Assemblies": [
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.Activities.Design.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0\\lib\\net461\\UiPath.Testing.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.testing.activities\\23.4.0"
     },
@@ -2741,11 +3949,11 @@
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.CV.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.Semantic.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UIAutomationCore.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UIAutomationNext.dll"
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4\\lib\\net461\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.uiautomation.activities.runtime\\23.4.4"
     },
@@ -2757,12 +3965,71 @@
       "Assemblies": [
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
         "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.Microsoft.dll",
-        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.Tesseract.dll"
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.vision\\3.10.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.16.2"
+      },
+      "Assemblies": [
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib\\net461\\UiPath.Web.Activities.Design.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2\\lib\\net461\\UiPath.Web.Activities.RulesLibrary.dll"
+      ],
+      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.activities\\1.16.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Runtime",
+        "Version": "1.16.2"
+      },
+      "Assemblies": [
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib\\net461\\UiPath.Web.Activities.dll",
+        "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2\\lib\\net461\\UiPath.Web.dll"
+      ],
+      "Path": "C:\\ProgramData\\UiPath\\NugetFallbackFolder\\uipath.webapi.runtime\\1.16.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.DotNetZip.Activities",
+        "Version": "1.0.7222.31886"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib\\net461\\ConnectivityFramework.Core.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib\\net461\\UiPathTeam.DotNetZip.Activities.Activities.Design.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib\\net461\\UiPathTeam.DotNetZip.Activities.Activities.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886\\lib\\net461\\UiPathTeam.DotNetZip.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\uipathteam.dotnetzip.activities\\1.0.7222.31886"
+    },
+    {
+      "Package": {
+        "Id": "WindowsAPICodePack",
+        "Version": "1.1.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib\\Microsoft.WindowsAPICodePack.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib\\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib\\Microsoft.WindowsAPICodePack.Sensors.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib\\Microsoft.WindowsAPICodePack.Shell.dll",
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0\\lib\\Microsoft.WindowsAPICodePack.ShellExtensions.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\windowsapicodepack\\1.1.0"
+    },
+    {
+      "Package": {
+        "Id": "YamlDotNet",
+        "Version": "8.1.0"
+      },
+      "Assemblies": [
+        "D:\\Users\\mohammed.kale\\.nuget\\packages\\yamldotnet\\8.1.0\\lib\\net45\\YamlDotNet.dll"
+      ],
+      "Path": "D:\\Users\\mohammed.kale\\.nuget\\packages\\yamldotnet\\8.1.0"
     }
   ]
 }
